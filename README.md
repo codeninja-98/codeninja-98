@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeninja-98
+- 👋 Hi, I’m codeninja-98
 - 👀 I’m interested in web3 and blockchain technology
 - 🌱 I’m currently learning web development
 <!---
